@@ -8,15 +8,19 @@ Zde budou novinky, ale teď tu bude changelog Launcheru:
 ● Changelog
 ● Color output
 ● Gui Launcher has finaly logging, but with colors
+● New music in the Launcher
 ## Bug fixed
 
 ● Running update.cmd starts python, what is not correct - Installing did not work
 ● When running launcher first time without setting directory in Gui Launcher or deleting the folder Console Launcher starts asking for Game directory
+● The Force Update box sometimes did not work
+● Updater.exe did not sometimes did not run correctly and did not install game
+
 
 ## Bugs what is not fixed ;-(
 
 ● When change Game directory Launcher did not want to install again/move files of the game - You need to check the Force Update box
-● The Force Update box sometimes did not work
+
 ## v1.0 - Here is complete new Launcher - GUI Launcher
 
 ## What is new?
