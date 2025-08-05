@@ -19,7 +19,7 @@ Zde budou novinky, ale teď tu bude changelog Launcheru:
 ● The Force Update box sometimes did not work
 ● Updater.exe did not sometimes did not run correctly and did not install game
 
-## Bugs what is not fixed ;-(
+## Bugs what is not fixed :-(
 
 ● When change Game directory Launcher did not want to install again/move files of the game - You need to check the Force Update box
 
