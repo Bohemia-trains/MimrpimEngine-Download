@@ -12,7 +12,6 @@ Zde budou novinky, ale teď tu bude changelog Launcheru:
 ● Gui Launcher has finaly logging, but with colors
 ● New music in the Launcher
 ● Installer now making Shortcuts in Start and on Desktop
-
 ## Bug fixed
 
 ● Running update.cmd starts python, what is not correct - Installing did not work
