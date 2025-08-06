@@ -2,6 +2,21 @@
 
 Zde budou novinky, ale teď tu bude changelog Launcheru:
 
+## v1.1.1 - A hot bug fixes
+
+## Bugs fixed
+
+● You need to have installed game in path without caps (not like: C:/A game/ but like: c:/A_game/) - you can not install it into program files or program files (86x)
+● Name winodw of the GUI
+● Name window of Console
+● Logging into consloe in GUI
+● Colors
+● Minor bugs
+
+## Bugs what is not fixed :-(
+
+● When change Game directory Launcher did not want to install again/move files of the game - You need to check the Force Update box
+
 ## v1.1 - A big new update
 
 ## What is new?
